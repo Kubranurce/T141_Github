@@ -7,5 +7,6 @@ public class P02 {
         System.out.println("Adinizi giriniz");
         String isim=scanner.nextLine();
 
+        System.out.println("Girdiginiz isim " + isim + "olarak kaydedildi");
     }
 }
